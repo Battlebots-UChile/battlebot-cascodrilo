@@ -1,6 +1,5 @@
 
-﻿# Cascodrilo - 2019
-
+# Cascodrilo - 2019
 
 Este proyecto se basa principalmente en generar un robot de combate, el cual, posea materiales reciclados, para que de esta forma sea amigable con el medioambiente, así el battlebot está diseñado con dos principales mecanismos, uno de ellos es la parte eléctrica, por lo que se utilizó el programa Arduino para llevar la mayoría de los movimientos a cabo. La otra es la parte mecánica, que funciona a la par con el sistema eléctrico, ya que se ocupan resortes, para conseguir más potencia en el arma del robot.
 
@@ -58,13 +57,15 @@ Palos de maqueta
 Instrucciones de armado.
 1.	Diseñar e imprimir en cortadora laser las siguientes piezas:
 
-Palanca []
+Palanca [7,5x3]cm
 ![Palanca](/multimedia/plano1.jpg)
 
-Artefacto que alineará a la palanca para que esta no se salga de su eje, son necesarias 2 []
+Artefacto que alineará a la palanca para que esta no se salga de su eje, son necesarias 2 [4x2]cm
 ![Cosa](/multimedia/plano2.jpg)
 
-Base en la cual se pondrán los circuitos []
+Base en la cual se pondrán los circuitos [20x20]cm
+los orificios son de 5 milimetros por 3 centímetros
+y el sacado es de 5x3,5 cm
 ![Base](/multimedia/plano3.jpg)
 
 2.	Estas piezas están hechas para ser ensambladas con facilidad, por lo que, pondremos la base y la placa de soporte juntas, en los orificios que posee la primera, ubicaremos lo que sobresale de la segunda. Para que esto permanezca firme, lo pegaremos con silicona caliente.
