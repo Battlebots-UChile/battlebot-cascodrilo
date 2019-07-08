@@ -3,7 +3,7 @@
 
 Este proyecto se basa principalmente en generar un robot de combate, el cual, posea materiales reciclados, para que de esta forma sea amigable con el medioambiente, así el battlebot está diseñado con dos principales mecanismos, uno de ellos es la parte eléctrica, por lo que se utilizó el programa Arduino para llevar la mayoría de los movimientos a cabo. La otra es la parte mecánica, que funciona a la par con el sistema eléctrico, ya que se ocupan resortes, para conseguir más potencia en el arma del robot.
 
-![Cascodrilo](/multimedia/casco2.JPG)
+![Cascodrilo](/multimedia/casco2.jpg)
 
 
 ## Integrantes
