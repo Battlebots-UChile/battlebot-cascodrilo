@@ -77,11 +77,15 @@ Soporte [4x2]cm, el agujero depende del tamaño de los palos de maqueta a utiliz
 
 4.	Luego, es posible notar que hay dos agujeros presenten en las piezas laterales, entre ellas debe haber un palo de maqueta que las una y atraviese tales hoyos, así debemos cortar la madera sobrante y pegar con silicona caliente.
 
-5.	Luego colocar y pegar una bisagra en el centro, en medio del sacado grande, donde se encuentran ubicadas las piezas de soporte, y pegar un extremo de la palanca a ella, así la palanca debe estar sobre el palo de maqueta atravesado entre las dos placas.
+5.	Luego colocar y pegar una bisagra en el centro, en medio del sacado grande, donde se encuentran ubicadas las piezas de soporte, y pegar un extremo de la palanca a ella, así la palanca debe estar bajo el palo de maqueta atravesado entre las dos placas.
 
-6.	Las ruedas se deben ubicar en los agujeros más grandes presentes en la base, estas deben estar ligadas a los motores DC, los cuales se encontraran pegados por abajo a la base.
+6.  Lo siguiente que haremos es pegar un servo junto a la palanca, que quede en una de las aletitas de la base, con esto ubicamos un palo de maqueta que se mueva junto con el servo para regular el paso de la palanca.
 
-7.	Cuando se haya ubicado el Arduino y lo complementario a este, dentro de el área basal, es posible pegar el casco el cual será cortado sin medidas precisas, sino que acomodándolo como mejor quede (el cómo van distribuidos los cables del arduino y las baterías está especificado en otra sección).
+7.  Para continuar ubicamos dos resortes juntos tales que sean movidos por un motor el cual estará sostenido por un palo de maqueta, que esté atrás de la placa de soporte, así el otro extremo del resorte debe quedar adherido a la palanca.
+
+8.	Las ruedas se deben ubicar en los agujeros más grandes presentes en la base, estas deben estar ligadas a los motores DC, los cuales se encontraran pegados por abajo a la base.
+
+9.	Cuando se haya ubicado el Arduino y lo complementario a este, dentro de el área basal, es posible pegar el casco el cual será cortado sin medidas precisas, sino que acomodándolo como mejor quede (el cómo van distribuidos los cables del arduino y las baterías está especificado en otra sección).
 
 
 ## Licencia
