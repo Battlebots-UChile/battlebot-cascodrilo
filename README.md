@@ -1,7 +1,6 @@
 ﻿# Cascodrilo - 2019
 
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Este proyecto se basa principalmente en generar un robot de combate, el cual, posea materiales reciclados, para que de esta forma sea amigable con el medioambiente, así el battlebot está diseñado con dos principales mecanismos, uno de ellos es la parte eléctrica, por lo que se utilizó el programa Arduino para llevar la mayoría de los movimientos a cabo. La otra es la parte mecánica, que funciona a la par con el sistema eléctrico, ya que se ocupan resortes, para conseguir más potencia en el arma del robot.
 
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
@@ -15,6 +14,7 @@
 
 
 ## Descripción del proyecto
+
 
 ### Estrategia utilizada
 #### Ofensiva
