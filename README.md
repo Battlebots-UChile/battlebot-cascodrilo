@@ -68,6 +68,9 @@ los orificios son de 5 milimetros por 3 centímetros
 y el sacado es de 5x3,5 cm
 ![Base](/multimedia/plano3.jpg)
 
+Soporte [4x2]cm, el agujero depende del tamaño de los palos de maqueta a utilizar
+![Base](/multimedia/Diapositiva1.PNG)
+
 2.	Estas piezas están hechas para ser ensambladas con facilidad, por lo que, pondremos la base y la placa de soporte juntas, en los orificios que posee la primera, ubicaremos lo que sobresale de la segunda. Para que esto permanezca firme, lo pegaremos con silicona caliente.
 
 3.	Una vez listo el paso anterior, ubicaremos los orificios de la placa de soporte (ya pegada a la base) con la lateral juntos, de tal forma que el palo de maqueta quepa en medio, así en un borde del palo de maqueta, colocamos una aureola de silicona caliente y esperamos a que se seque, con cuidado de no juntar el palo de maqueta con la placa, la función de esto es generar una especie de tope para no desalinear el movimiento, repetimos este paso para ambos lados, así cortamos lo que sobre de palo de maqueta y repetimos el colocar silicona el otro extremo.
