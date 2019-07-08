@@ -26,6 +26,12 @@
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
 
+![Parte1](/multimedia/parte1xd.jpg)
+
+![Parte2](/multimedia/parte2.jpg)
+
+![Parte3](/multimedia/xddddd.jpg)
+
 ### *BONUS*: Paso a Paso
 <Explicar brevemente el paso a paso de cómo construir el battlebot.>
 
